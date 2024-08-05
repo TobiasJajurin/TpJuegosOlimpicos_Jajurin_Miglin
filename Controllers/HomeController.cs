@@ -18,6 +18,11 @@ public class HomeController : Controller
         return View();
     }
 
+     public IActionResult Creditos()
+    {
+        return View();
+    }
+
     public IActionResult Deportes()
     {
         ViewBag.Deportes = new List<Deporte>();
@@ -31,4 +36,6 @@ public class HomeController : Controller
         ViewBag.Paises.add(Pais.Nombre)
         return View();
     }
+
+    
 }
