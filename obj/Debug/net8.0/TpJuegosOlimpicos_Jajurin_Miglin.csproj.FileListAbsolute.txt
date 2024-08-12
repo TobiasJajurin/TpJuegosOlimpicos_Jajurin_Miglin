@@ -7,3 +7,12 @@ C:\Users\48313356\Documents\TpJuegosOlimpicos_Jajurin_Miglin\obj\Debug\net8.0\Tp
 C:\Users\48313356\Documents\TpJuegosOlimpicos_Jajurin_Miglin\obj\Debug\net8.0\TpJuegosOlimpicos_Jajurin_Miglin.RazorAssemblyInfo.cache
 C:\Users\48313356\Documents\TpJuegosOlimpicos_Jajurin_Miglin\obj\Debug\net8.0\TpJuegosOlimpicos_Jajurin_Miglin.RazorAssemblyInfo.cs
 C:\Users\48313356\Documents\TpJuegosOlimpicos_Jajurin_Miglin\obj\Debug\net8.0\TpJuegosOlimpicos_Jajurin_Miglin.sourcelink.json
+C:\Users\48313356\Downloads\JJOO\TpJuegosOlimpicos_Jajurin_Miglin\obj\Debug\net8.0\TpJuegosOlimpicos_Jajurin_Miglin.csproj.AssemblyReference.cache
+C:\Users\48313356\Downloads\JJOO\TpJuegosOlimpicos_Jajurin_Miglin\obj\Debug\net8.0\TpJuegosOlimpicos_Jajurin_Miglin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48313356\Downloads\JJOO\TpJuegosOlimpicos_Jajurin_Miglin\obj\Debug\net8.0\TpJuegosOlimpicos_Jajurin_Miglin.AssemblyInfoInputs.cache
+C:\Users\48313356\Downloads\JJOO\TpJuegosOlimpicos_Jajurin_Miglin\obj\Debug\net8.0\TpJuegosOlimpicos_Jajurin_Miglin.AssemblyInfo.cs
+C:\Users\48313356\Downloads\JJOO\TpJuegosOlimpicos_Jajurin_Miglin\obj\Debug\net8.0\TpJuegosOlimpicos_Jajurin_Miglin.csproj.CoreCompileInputs.cache
+C:\Users\48313356\Downloads\JJOO\TpJuegosOlimpicos_Jajurin_Miglin\obj\Debug\net8.0\TpJuegosOlimpicos_Jajurin_Miglin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\48313356\Downloads\JJOO\TpJuegosOlimpicos_Jajurin_Miglin\obj\Debug\net8.0\TpJuegosOlimpicos_Jajurin_Miglin.RazorAssemblyInfo.cache
+C:\Users\48313356\Downloads\JJOO\TpJuegosOlimpicos_Jajurin_Miglin\obj\Debug\net8.0\TpJuegosOlimpicos_Jajurin_Miglin.RazorAssemblyInfo.cs
+C:\Users\48313356\Downloads\JJOO\TpJuegosOlimpicos_Jajurin_Miglin\obj\Debug\net8.0\TpJuegosOlimpicos_Jajurin_Miglin.sourcelink.json
