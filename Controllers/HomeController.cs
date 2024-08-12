@@ -25,14 +25,19 @@ public class HomeController : Controller
 
     public IActionResult Deportes()
     {
-        ViewBag.Deportes = new List<Deporte>();
+        ViewBag.Deportes = Bd.ListarDeportes() ;
         return View();
     }
 
-    public IActionResult Pais()
+    public IActionResult Paises()
     {
-        ViewBag.Paises = new List<Pais>();
+        ViewBag.Paises = Bd.ListarPaises();
         return View();
+    }
+
+    public IActionResult VerDetalleDeporte(int idDeporte)
+    {
+        ViewBag.Deporte = Bd.VerInfoDeporte();
     }
 
     

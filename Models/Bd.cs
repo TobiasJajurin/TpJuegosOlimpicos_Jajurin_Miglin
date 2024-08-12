@@ -1,17 +1,15 @@
 using System.Data.SqlClient;
 using Dapper;
-public class Bd
+public static class Bd
 {
-    private static string _connectionString = @"Server=localhost;DataBase=JuegosOlimpicos;Trusted_Connection=True;";
-
-    Using (SqlConnection Bd = new SqlConnection(_connectionString));
+    private static string _connectionString = @"Server=localhost;DataBase=JJOO;Trusted_Connection=True;";
 
     public static void AgregarDeportista(Deportista dep)
     {
         string sql = "INSERT INTO Deportistas (Apellido,Nombre,FechaNacimiento,Foto,IdPais,IdDeporte) VALUES(@Apellido, @Nombre, @FechaNacimiento, @Foto, @IdPais, @IdDeporte)";
-        using (SqlConnection Bd = new SqlConnection(_connectionString));
+        using (SqlConnection db = new SqlConnection(_connectionString));
         {
-            Bd.Execute(sql, new {apellido = dep.Apellido, nombre = dep.Nombre, FechaNacimiento = dep.FechaNacimiento, foto = dep.Foto, Idpais = dep.IdPais, IdDeporte = dep.IdDeporte});
+            db.Execute(sql, new {apellido = dep.Apellido, nombre = dep.Nombre, FechaNacimiento = dep.FechaNacimiento, foto = dep.Foto, Idpais = dep.IdPais, IdDeporte = dep.IdDeporte});
         }
 
     }
@@ -19,10 +17,10 @@ public class Bd
     public static int EliminarDeportista (int idDeportista)
     {
         int RegistrosEliminados = 0;
-        string sql = "DELETE *FROM Deportistas WHERE idDeportista = @idDeportistaEliminar";
-        using (SqlConnection Bd = new SqlConnection(_connectionString));
+        string sql = "DELETE * FROM Deportistas WHERE idDeportista = @idDeportistaEliminar";
+        using (SqlConnection db = new SqlConnection(_connectionString))
         {
-            RegistrosEliminados = Bd.Execute(sql, new {idDeportistaEliminar = idDeportista});
+            RegistrosEliminados = db.Execute(sql, new {idDeportistaEliminar = idDeportista});
         }
         return RegistrosEliminados;
 
@@ -32,9 +30,9 @@ public class Bd
     {
         string sql = "SELECT * FROM Deportes WHERE IdDeporte = @idNueva";
         Deporte devolucion;
-        using (SqlConnection Bd = new SqlConnection(_connectionString));
+        using (SqlConnection db = new SqlConnection(_connectionString))
         {
-            devolucion = Bd.Query<Deporte> (sql, new {idNueva = idDeporte});
+            devolucion = db.Query<Deporte> (sql, new {idNueva = idDeporte});
         }
         return devolucion;
     }
@@ -42,9 +40,9 @@ public class Bd
     {
         string sql = "SELECT * FROM Paises WHERE IdPais = @idNueva";
         Pais devolucion;
-       using (SqlConnection Bd = new SqlConnection(_connectionString));
+       using (SqlConnection db = new SqlConnection(_connectionString))
         {
-            devolucion = Bd.Query<Pais> (sql, new {idNueva = idPais});
+            devolucion = db.Query<Pais> (sql, new {idNueva = idPais});
         }
         return devolucion;
     }
@@ -53,46 +51,55 @@ public class Bd
     {
         string sql = "SELECT * FROM Deportistas WHERE IdDeportista = @idNueva";
         Deportista devolucion;
-       using (SqlConnection Bd = new SqlConnection(_connectionString));
+       using (SqlConnection db = new SqlConnection(_connectionString))
         {
-            devolucion = Bd.Query<Deportista> (sql, new {idNueva = idDeportista});
+            devolucion = db.Query<Deportista> (sql, new {idNueva = idDeportista});
         }
         return devolucion;
     }
-public List<Pais> ListarPaises()
+public static List<Pais> ListarPaises()
 {
      string sql = "SELECT * FROM Paises";
     List<Pais> devolucion;
-       using (SqlConnection Bd = new SqlConnection(_connectionString));
+       using (SqlConnection db = new SqlConnection(_connectionString))
         {
-            devolucion = Bd.Query<Pais> (sql).ToList();
+            devolucion = db.Query<Pais> (sql).ToList();
         }
         return devolucion;
 
 }
-public List<Deporte> ListarDeportes()
+public static List<Deporte> ListarDeportes()
 {
      string sql = "SELECT * FROM Deportes";
     List<Deporte> devolucion;
-       using (SqlConnection Bd = new SqlConnection(_connectionString));
+       using (SqlConnection db = new SqlConnection(_connectionString))
         {
-            devolucion = Bd.Query<Deporte> (sql).ToList();
+            devolucion = db.Query<Deporte> (sql).ToList();
         }
         return devolucion;
 
 }
-public List<Deportista> ListarDeportistas()
+public static List<Deportista> ListarDeportistasPorDeporte(int idDeporte)
 {
-     string sql = "SELECT * FROM Deportistas";
+     string sql = "SELECT * FROM Deportistas WHERE idDeporte = @idNueva ";
     List<Deportista> devolucion;
-       using (SqlConnection Bd = new SqlConnection(_connectionString));
+       using (SqlConnection db = new SqlConnection(_connectionString))
         {
-            devolucion = Bd.Query<Deportista> (sql).ToList();
+            devolucion = db.Query<Deportista> (sql, new {idNueva = idDeporte}).ToList();
         }
         return devolucion;
 
 }
+public static List<Deportista> ListarDeportistasPorPais(int idPais)
+{
+     string sql = "SELECT * FROM Deportistas WHERE idPais = @idNueva ";
+    List<Deportista> devolucion;
+       using (SqlConnection db = new SqlConnection(_connectionString))
+        {
+            devolucion = db.Query<Deportista> (sql, new {idNueva = idPais}).ToList();
+        }
+        return devolucion;
 
-
+}
 
 }
