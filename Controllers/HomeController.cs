@@ -68,7 +68,6 @@ public class HomeController : Controller
 
         ViewBag.ListadoPaises = Bd.ListarPaises();
         ViewBag.ListadoDeportes = Bd.ListarDeportes();
-        Bd.AgregarDeportista();
         return View();
 
     }
@@ -81,7 +80,8 @@ public class HomeController : Controller
     }
     [HttpPost] IActionResult GuardarDeportista(Deportista dep)
     {
-
+        Bd.AgregarDeportista(dep);
+        return View(Index);
     }
 
 }
