@@ -6,5 +6,5 @@ public class Deportista
     public DateTime FechaNacimiento {get; set; }
     public string Foto {get; set; }
     public int IdPais { get; set; }
-    public int idDeporte { get; set; }
+    public int IdDeporte { get; set; }
 }
