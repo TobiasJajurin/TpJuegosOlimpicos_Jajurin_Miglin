@@ -1,3 +1,6 @@
-foreach (var pais in @ViewBag.Paises){
-    <p>pais.Nombre</p>
+<ul>
+@foreach (Pais a in ViewBag.Paises)
+{
+    <li>@a.Nombre, @a.Bandera, @a.FechaFundacion</li>
 }
+</ul>

@@ -1,12 +1,68 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
       "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\imgs\\Bndera francia.jpg",
+      "PackagePath": "staticwebassets\\imgs\\Bndera francia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\imgs\\Diseño sin título.png",
+      "PackagePath": "staticwebassets\\imgs\\Diseño sin título.png"
+    },
+    {
+      "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\imgs\\Monopolio.png",
+      "PackagePath": "staticwebassets\\imgs\\Monopolio.png"
+    },
+    {
+      "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\imgs\\USa bandera.jpg",
+      "PackagePath": "staticwebassets\\imgs\\USa bandera.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\imgs\\c1.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\c1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\imgs\\c2.jfif",
+      "PackagePath": "staticwebassets\\imgs\\c2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\imgs\\c3.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\c3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\imgs\\c3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\imgs\\pexels-anilsharma65-10496378.jpg",
+      "PackagePath": "staticwebassets\\imgs\\pexels-anilsharma65-10496378.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\imgs\\pexels-artempodrez-5941819.jpg",
+      "PackagePath": "staticwebassets\\imgs\\pexels-artempodrez-5941819.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\imgs\\pexels-bohlemedia-1884576.jpg",
+      "PackagePath": "staticwebassets\\imgs\\pexels-bohlemedia-1884576.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\imgs\\pexels-mike-468229-1171084.jpg",
+      "PackagePath": "staticwebassets\\imgs\\pexels-mike-468229-1171084.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\imgs\\pexels-pixabay-69773.jpg",
+      "PackagePath": "staticwebassets\\imgs\\pexels-pixabay-69773.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\imgs\\pexels-tima-miroshnichenko-6572611.jpg",
+      "PackagePath": "staticwebassets\\imgs\\pexels-tima-miroshnichenko-6572611.jpg"
     },
     {
       "Id": "C:\\Users\\48313356\\Downloads\\aaa\\wwwroot\\js\\site.js",
