@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A4MOlQW2jZSR6wzMBPmg4zDPK+BOE+jqgqDPBW92jx9F3V/9QZa8iMhFtKe2jW1U3pKovAQX4J62bEdFWtMIdQ==",
+  "dgSpecHash": "AZ6cyDl5Dyf4q3DvTbj8Rl4d57wY0Ot7bMPegwfWcjsYKk3ECs4op2cvRSuEw6QiSWTQAmtfpPuESrlaNCHVHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\48313356\\Downloads\\JJOO\\TpJuegosOlimpicos_Jajurin_Miglin\\TpJuegosOlimpicos_Jajurin_Miglin.csproj",
+  "projectFilePath": "C:\\Users\\48313356\\Downloads\\aaa\\TpJuegosOlimpicos_Jajurin_Miglin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\48313356\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\48313356\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

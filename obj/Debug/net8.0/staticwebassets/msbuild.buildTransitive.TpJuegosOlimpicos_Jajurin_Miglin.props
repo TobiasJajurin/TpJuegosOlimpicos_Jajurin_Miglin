@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TpJuegosOlimpicos_Jajurin_Miglin.props" />
+</Project>

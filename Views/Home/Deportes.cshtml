@@ -1,10 +1,6 @@
-@foreach ( a in ViewBag.Deportes)
+<ul>
+@foreach (Deporte a in ViewBag.Deportes)
 {
-    <ul>
-                <li></li>
-                <li>Deport.</li>
-                <li>Deport.</li>
-                <li>Deport.</li>
-                <li>Deport.</li>
-    </ul>
+    <li>@a.Nombre, @a.foto</li>
 }
+</ul>
