@@ -1,6 +1,13 @@
-<ul>
+<main>
+    <section>
 @foreach (Pais a in ViewBag.Paises)
 {
-    <li>@a.Nombre, @a.Bandera, @a.FechaFundacion</li>
+     <div class="card" style="width: 18rem;">
+                    <img src='@Url.Action("@a.Bandera")' class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h2 class="card-title"><a href='@Url.Action("VerDetallePaises")'>@a.Nombre</a></h2>
+                    </div>
+     </div>
 }
-</ul>
+</section>
+</main>
