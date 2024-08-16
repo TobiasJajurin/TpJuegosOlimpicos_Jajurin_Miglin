@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pYjS6+J60Cas8zN+9XaxTAB2ZuGSJOJnwOSBVR//y8s=",
+  "Hash": "ddamtDffRcgEKzX2wkLecCLf7OxL9nArIbz4ejMP/FM=",
   "Source": "TpJuegosOlimpicos_Jajurin_Miglin",
   "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\imgs\\Anillos.png",
+      "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
+      "RelativePath": "imgs/Anillos.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\Anillos.png"
     },
     {
       "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\imgs\\Bndera francia.jpg",

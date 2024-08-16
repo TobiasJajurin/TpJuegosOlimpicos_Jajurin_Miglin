@@ -218,7 +218,7 @@ h1 {
 main section{
     margin-left: 5%;
 }
-main section div{
+main section div:not(.quit, .quit *){
     text-align: center;
     float: left;
     width: 20%;
@@ -226,3 +226,7 @@ main section div{
 footer{
     clear: both;
 }
+/* .quit{
+    float: none !important;
+    width: inherit !important;
+} */

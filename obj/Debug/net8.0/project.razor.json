@@ -19374,11 +19374,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\48313356\\Downloads\\asddsf\\Views\\Home\\Deportistas.cshtml",
-      "TargetPath": "Views\\Home\\Deportistas.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\48313356\\Downloads\\asddsf\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"

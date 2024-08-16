@@ -3,7 +3,7 @@
 @foreach (Deporte a in ViewBag.Deportes)
 {
      <div class="card" style="width: 18rem;">
-                    <img src='@Url.Action("@a.foto")' class="card-img-top" alt="...">
+                    <img src='@Url.Action("@a.foto") ~/' class="card-img-top" alt="...">
                     <div class="card-body">
                       <h2 class="card-title"><a href='@Url.Action("VerDetalleDeportes")'>@a.Nombre</a></h2>
                     </div>
