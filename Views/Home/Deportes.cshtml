@@ -1,13 +1,15 @@
+<div style="height: 8rem;"></div>
 <main>
-    <section>
+    <section class="d-flex flex-wrap justify-content-center m-0">
 @foreach (Deporte a in ViewBag.Deportes)
 {
-     <div class="card" style="width: 18rem;">
-                    <img src='@Url.Action("@a.foto") ~/' class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h2 class="card-title"><a href='@Url.Action("VerDetalleDeportes")'>@a.Nombre</a></h2>
-                    </div>
-     </div>
+     <div class="card m-4" style="width: 18rem; box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;">
+  <img src="@a.foto" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h4 class="card-title">@a.Nombre</h4>
+    <a href='@Url.Action("VerDetalleDeporte", "Home", new { idDeporte = a.idDeporte })' class="btn btn-primary">Ver Deporte</a>
+  </div>
+</div>
 }
-</section>
+  </section>
 </main>

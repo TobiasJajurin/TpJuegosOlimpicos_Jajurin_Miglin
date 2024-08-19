@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ddamtDffRcgEKzX2wkLecCLf7OxL9nArIbz4ejMP/FM=",
+  "Hash": "7j2aXUutJn77Ow8Jro/6VPGiZlfeAPOrJYsK6ZrpIJ8=",
   "Source": "TpJuegosOlimpicos_Jajurin_Miglin",
   "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot",
       "Source": "TpJuegosOlimpicos_Jajurin_Miglin",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\css\\styles.css",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\favicon.ico",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +55,29 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\imgs\\Anillos.png",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\fonts\\Paris2024-Variable.ttf",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
+      "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
+      "RelativePath": "fonts/Paris2024-Variable.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\Paris2024-Variable.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\Anillos.png",
+      "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "imgs/Anillos.png",
       "AssetKind": "All",
@@ -74,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\Anillos.png"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\imgs\\Bndera francia.jpg",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\Bndera francia.jpg",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "imgs/Bndera francia.jpg",
       "AssetKind": "All",
@@ -93,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\Bndera francia.jpg"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\imgs\\c1.jpeg",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\c1.jpeg",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "imgs/c1.jpeg",
       "AssetKind": "All",
@@ -112,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\c1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\imgs\\c2.jfif",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\c2.jfif",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "imgs/c2.jfif",
       "AssetKind": "All",
@@ -131,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\c2.jfif"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\imgs\\c3.jpeg",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\c3.jpeg",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "imgs/c3.jpeg",
       "AssetKind": "All",
@@ -150,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\c3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\imgs\\c3.jpg",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\c3.jpg",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "imgs/c3.jpg",
       "AssetKind": "All",
@@ -169,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\c3.jpg"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\imgs\\Diseño sin título.png",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\Diseño sin título.png",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "imgs/Diseño sin título.png",
       "AssetKind": "All",
@@ -188,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\Diseño sin título.png"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\imgs\\Monopolio.png",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\Monopolio.png",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "imgs/Monopolio.png",
       "AssetKind": "All",
@@ -207,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\Monopolio.png"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\imgs\\pexels-anilsharma65-10496378.jpg",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\pexels-anilsharma65-10496378.jpg",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "imgs/pexels-anilsharma65-10496378.jpg",
       "AssetKind": "All",
@@ -226,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\pexels-anilsharma65-10496378.jpg"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\imgs\\pexels-artempodrez-5941819.jpg",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\pexels-artempodrez-5941819.jpg",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "imgs/pexels-artempodrez-5941819.jpg",
       "AssetKind": "All",
@@ -245,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\pexels-artempodrez-5941819.jpg"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\imgs\\pexels-bohlemedia-1884576.jpg",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\pexels-bohlemedia-1884576.jpg",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "imgs/pexels-bohlemedia-1884576.jpg",
       "AssetKind": "All",
@@ -264,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\pexels-bohlemedia-1884576.jpg"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\imgs\\pexels-mike-468229-1171084.jpg",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\pexels-mike-468229-1171084.jpg",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "imgs/pexels-mike-468229-1171084.jpg",
       "AssetKind": "All",
@@ -283,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\pexels-mike-468229-1171084.jpg"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\imgs\\pexels-pixabay-69773.jpg",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\pexels-pixabay-69773.jpg",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "imgs/pexels-pixabay-69773.jpg",
       "AssetKind": "All",
@@ -302,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\pexels-pixabay-69773.jpg"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\imgs\\pexels-tima-miroshnichenko-6572611.jpg",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\pexels-tima-miroshnichenko-6572611.jpg",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "imgs/pexels-tima-miroshnichenko-6572611.jpg",
       "AssetKind": "All",
@@ -321,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\pexels-tima-miroshnichenko-6572611.jpg"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\imgs\\USa bandera.jpg",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\USa bandera.jpg",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "imgs/USa bandera.jpg",
       "AssetKind": "All",
@@ -340,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\USa bandera.jpg"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\js\\site.js",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -359,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -378,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -397,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -416,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -435,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -454,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -473,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -492,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -511,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -530,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -549,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -568,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TpJuegosOlimpicos_Jajurin_Miglin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\48313356\\Downloads\\asddsf\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\",
       "BasePath": "_content/TpJuegosOlimpicos_Jajurin_Miglin",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

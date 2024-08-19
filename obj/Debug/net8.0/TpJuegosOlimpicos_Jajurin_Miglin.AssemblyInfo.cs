@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TpJuegosOlimpicos_Jajurin_Miglin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+158d2521e2a1022d51edc71789c924c132a4add4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9342d9d071920717ccc712a2ebf7bdd665e4449f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TpJuegosOlimpicos_Jajurin_Miglin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TpJuegosOlimpicos_Jajurin_Miglin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,13 +1,13 @@
-@foreach (Pais a in ViewBag.PaisInfo)
-{
-    <h1>@a.Nombre</h1>
-}
+<div style="height: 8rem;"></div>
+<h1>@ViewBag.PaisInfo.Nombre</h1>
+<img src="@ViewBag.PaisInfo.Bandera" >
+<h2>@ViewBag.PaisInfo.FechaFundacion</h2>
 
 <ul>
-@foreach (Deportista a in ViewBag.ListarDeportistasPorPais)
+@foreach (Deportista a in ViewBag.ListarDeportistasPais)
 {
       <div class="card" style="width: 18rem;">
-                    <img src='@Url.Action("@a.Foto")' class="card-img-top" alt="...">
+                    <img src='@a.Foto' class="card-img-top" alt="...">
                     <div class="card-body">
                       <h2 class="card-title">@a.Nombre @a.Apellido</h2>
                     </div>

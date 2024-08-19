@@ -78,7 +78,8 @@ public class HomeController : Controller
         return View(Index);
 
     }
-    [HttpPost] IActionResult GuardarDeportista(Deportista dep)
+    [HttpPost]
+    public IActionResult GuardarDeportista(Deportista dep)
     {
         Bd.AgregarDeportista(dep);
         return View("Index");
