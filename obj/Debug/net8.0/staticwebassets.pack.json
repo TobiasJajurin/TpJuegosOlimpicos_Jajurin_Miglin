@@ -25,8 +25,24 @@
       "PackagePath": "staticwebassets\\imgs\\Diseño sin título.png"
     },
     {
+      "Id": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\Juanfer.avif",
+      "PackagePath": "staticwebassets\\imgs\\Juanfer.avif"
+    },
+    {
+      "Id": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\JuanferQuintero.jpg",
+      "PackagePath": "staticwebassets\\imgs\\JuanferQuintero.jpg"
+    },
+    {
       "Id": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\Monopolio.png",
       "PackagePath": "staticwebassets\\imgs\\Monopolio.png"
+    },
+    {
+      "Id": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\Pity.avif",
+      "PackagePath": "staticwebassets\\imgs\\Pity.avif"
+    },
+    {
+      "Id": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\PityMartinez.jpg",
+      "PackagePath": "staticwebassets\\imgs\\PityMartinez.jpg"
     },
     {
       "Id": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\USa bandera.jpg",
@@ -47,6 +63,10 @@
     {
       "Id": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\c3.jpg",
       "PackagePath": "staticwebassets\\imgs\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\gallardo.jfif",
+      "PackagePath": "staticwebassets\\imgs\\gallardo.jfif"
     },
     {
       "Id": "C:\\Users\\48675805\\TpJuegosOlimpicos_Jajurin_Miglin\\wwwroot\\imgs\\pexels-anilsharma65-10496378.jpg",

@@ -1,4 +1,5 @@
 <div style="height: 8rem;"></div>
+<head>
   <main class="cardC">
         <div class="cardCreditos">
             <div class="card" style="width: 18rem; float:  left; ">
@@ -28,4 +29,58 @@
             </div>
           </div>
         </div>
-    </main>
+        <style>
+        #ball {
+            width: 50px;
+            height: 50px;
+
+            border-radius: 50%;
+            position: absolute;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="ball"><img src="~/imgs/Anillos.png"></div>
+
+   <script>
+        const ball = document.getElementById('ball');
+        let x = 0; 
+        let y = 0; 
+        let dx = 2; 
+        let dy = 2; 
+        const ballSize = 50; 
+
+        function animate() {
+            const ballRect = ball.getBoundingClientRect();
+            const windowWidth = window.innerWidth;
+            const windowHeight = window.innerHeight;
+
+            
+            x += dx;
+            y += dy;
+
+            
+            if (x + ballSize > windowWidth || x < 0) {
+                dx = -dx; 
+            }
+
+            
+            if (y + ballSize > windowHeight || y < 0) {
+                dy = -dy; 
+            }
+
+            
+            ball.style.left = `${x}px`;
+            ball.style.top = `${y}px`;
+
+            
+            requestAnimationFrame(animate);
+        }
+
+        
+        animate();
+    </script>
+   
+</body>
+</main>
